@@ -9,3 +9,13 @@ end
 def using_uniq(arr)
   arr.uniq
 end
+
+def using_flatten(arr)
+  
+end
+
+def using_delete(arr,str)
+end
+
+def using_delete_at(arr,int)
+end
